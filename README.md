@@ -33,3 +33,15 @@ query {
     - Maior complexidade por conta de padrões e primeiros passos
     - Trabalhar com cache é mais difícil no GraphQL do que com o REST
     - Erros retornados são mais difíceis de serem tratados
+
+### No GraphQL existem dois métodos de criação de Backend
+
+    - Schema First
+    - Code First
+
+### Queries e Mutations
+
+    - Query:
+    	buscar dados
+    - Mutation:
+    	criar, alterar ou deletar dados
